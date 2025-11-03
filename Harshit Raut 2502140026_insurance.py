@@ -1,6 +1,3 @@
-# Name - Harshit Raut
-# Enrolment number - 2502140026
-
 import sys
 
 clients = [
